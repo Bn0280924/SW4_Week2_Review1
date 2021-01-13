@@ -8,6 +8,6 @@ Budgeting can have a 10% variance for all projects
 Manpower cannot exceed 25% over for any project
 
 A github repo has been created for Sam’s 4 projects he has worked on.   
-Compute the tasks accuracy average, get the budget variance (estimate - actual) for each project, and see if the manpower difference is greater than 25% for any project.
+Compute the tasks accuracy average, get the budget variance (estimate - actual)/estimate for each project, and see if the manpower difference is greater than 25% for any project.
 If one fails, store the reason and report it in the program.
 
